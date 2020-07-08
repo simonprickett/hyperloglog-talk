@@ -2,7 +2,7 @@
 
 Sample code and resources for a Redis Hyperloglog talk.
 
-* (Redis University Hyperloglog video)[https://www.youtube.com/watch?v=UAL2dxl1fsE]
-* (My slides)[https://www.slideshare.net/simonprickett/hyperloglog-lightning-talk]
-* (Redis Hyperloglog commands documentation)[https://redis.io/commands#hyperloglog]
-* (Wikipedia: Hyperloglog)[https://en.wikipedia.org/wiki/HyperLogLog]
+* [Redis University Hyperloglog video](https://www.youtube.com/watch?v=UAL2dxl1fsE)
+* [My slides](https://www.slideshare.net/simonprickett/hyperloglog-lightning-talk)
+* [Redis Hyperloglog commands documentation](https://redis.io/commands#hyperloglog)
+* [Wikipedia: Hyperloglog](https://en.wikipedia.org/wiki/HyperLogLog)
