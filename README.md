@@ -7,3 +7,4 @@ Sample code and resources for a Redis Hyperloglog talk.
 * [Redis Hyperloglog commands documentation](https://redis.io/commands#hyperloglog)
 * [Wikipedia: Hyperloglog](https://en.wikipedia.org/wiki/HyperLogLog)
 * [Video of Lightning Talk for San Diego JS Meetup group](https://youtu.be/2QAhCjIT2eQ?t=1959)
+* [A standalone Hyperloglog module for Node.js](https://github.com/optimizely/hyperloglog)
